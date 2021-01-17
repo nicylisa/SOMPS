@@ -1,0 +1,13 @@
+package com.ecnu.stldemo.elements.abstracts;
+
+public abstract class ExpressionOne extends Expression{
+    Expression expression;
+
+    public ExpressionOne(Expression expression) {
+        this.expression = expression;
+    }
+
+    public Expression getExpression() {
+        return expression;
+    }
+}
