@@ -19,5 +19,5 @@ We set Tim to 1 and the property is specified by the formula !φ.
 ![image](https://user-images.githubusercontent.com/43061103/117419427-21d7cc80-af4f-11eb-89e3-8fad42f72229.png)
 
 With the help of our tool SOMPS, online monitors are constructed as shown in below.
-![image](https://user-images.githubusercontent.com/43061103/117419687-711dfd00-af4f-11eb-9731-3039aaf2b074.png)
+![image](https://user-images.githubusercontent.com/20868538/117424419-5732e900-af54-11eb-8871-fc591a08cd5a.png)
 For formula φ, we set Tim to 1 and use a sinusoidal block for the airflow to highlight perturbation more. We get the online monitor structure in Fig. 11(c) and Fig. 11(d).
